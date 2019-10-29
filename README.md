@@ -1,4 +1,6 @@
-# InBus This project is created as part of global hackathon called TadHack.   
+# InBus 
+
+This project is created as part of global hackathon called TadHack.   
 
 It was held at TeleSign company in Belgrade, among 7 other locations. <br /><br />  
 
